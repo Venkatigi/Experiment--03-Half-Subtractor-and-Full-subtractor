@@ -68,19 +68,19 @@ endmodule
 # Output:
 ## Truthtable
 ### Half Subtractor
-![OUTPUT-01](IMG-01.PNG)
+![OUTPUT-01](IMG-01.png)
 ### Full Subtractor
-![OUTPUT-02](IMG-02.PNG)
+![OUTPUT-02](IMG-02.png)
 #  RTL realization
 ### Half Subtractor
-![OUTPUT-02](IMG-03.PNG)
+![OUTPUT-02](IMG-03.png)
 ### Full Subtractor
-![OUTPUT-02](IMG-04.PNG)
+![OUTPUT-02](IMG-04.png)
 # Timing diagram 
 ### Half Subtractor
-![OUTPUT-0](IMG-05.PNG)
+![OUTPUT-0](IMG-05.png)
 ### Full Subtractor
-![OUTPUT-0](IMG-06.PNG)
+![OUTPUT-0](IMG-06.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
